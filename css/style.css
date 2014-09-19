@@ -1,0 +1,50 @@
+body {
+	font-family: Verdana, sans-serif;
+	color: black;
+	background-color: #cc000;
+	margin: 0 auto;
+	background-color: #C6E2FF
+}
+
+.title {
+	color: purple;
+	font-size: 40px
+}
+
+h5 {
+	margin: 2px;
+}
+
+h3 {
+	margin: 2px;
+}
+
+h4 {
+	margin: 2px;
+}
+
+img {
+	height: 200px;
+	width: 600px;
+	border-radius: 10px;
+	border-color: red;
+	border-width: 5px;
+}
+
+p {
+	width: 600px;
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+}
+
+div {
+	margin: 20px;
+}
+
+* {
+	border: 2px purple;
+}
+

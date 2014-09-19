@@ -1,0 +1,29 @@
+
+/*.bg-image{
+
+	background: red
+}*/
+
+}
+.top{
+	height: 50px;
+	width: 1250px;
+	background: #blue;
+	color: white;
+	size: 20px;
+	font-family: Helvetica;
+	margin-top: 10px;
+	text-align: center;
+	font-size: 30px;
+}
+
+}
+
+.bottom{
+	height: 720px;
+	width: 1250px;
+	background: #ffedfd;
+	color: white;
+	text-align: center;
+	size: 20px;
+}
